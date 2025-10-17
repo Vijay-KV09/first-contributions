@@ -1259,6 +1259,7 @@
 - [Josmer Rodriguez](https://github.com/Josmerr)
 - [Kerem Balci](https://github.com/kerembalci90)
 - [Keshav Kant](https://github.com/Keshav-Kant/)
+- [Vijay Kumar Varma](https://github.com/Vijay-KV09)
 - [Keval Deepak](https://github.com/kevaldeepak)
 - [KevinThomas](https://github.com/HELL-KERBECS)
 - [Sumesh Majhi](https://github.com/MajhiRockzZ)
